@@ -1,0 +1,5 @@
+language: bash
+before_script:
+    - curl https://raw.githubusercontent.com/TobyDev265/PMSetup/main/installer.sh -o installer.sh
+script:
+    - bash installer.sh
