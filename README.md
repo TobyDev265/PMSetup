@@ -7,4 +7,4 @@
 # Notes
 - Only use this script for MacOS and Linux.
 - Make sure curl is installed.
-- 
+  
