@@ -4,8 +4,11 @@
 # PMSetup v1.0
 **Install PocketMine using shell script with Sheep is default plugin manager..**
 # Usage
-```./installer.sh``` to run
+Use ```curl``` to install PocketMine-MP using the following command:  
+```curl -sL https://raw.githubusercontent.com/TobyDev265/PMSetup/main/installer.sh | bash -s -```  
+Or ```wget```:  
+```wget -q -O - https://raw.githubusercontent.com/TobyDev265/PMSetup/main/installer.sh | bash -s -```
 # Notes
 - Only use this script for MacOS and Linux.
-- Make sure curl is installed.
+- Make sure curl or wget is installed.
   
