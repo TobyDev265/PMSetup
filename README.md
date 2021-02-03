@@ -12,4 +12,4 @@ Or ```wget```:
 - Only use this script for MacOS and Linux.
 - Make sure curl or wget is installed.
 # License
-**Released under the GPL-2.0 license.**
+**Released under the MIT license.**
