@@ -314,6 +314,7 @@ fi
 
 rm compile.sh
 
+echo "[*] Downloading Sheep"
 curl https://poggit.pmmp.io/r/35539/Sheep_v5.2.3.phar -o Sheep_v5.2.3.phar
 mkdir plugins
 mv Sheep_v5.2.3.phar plugins/
