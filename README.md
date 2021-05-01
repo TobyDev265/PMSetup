@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/TobyDev265/PMSetup.svg?branch=main)](https://travis-ci.com/TobyDev265/PMSetup)
+[![Build Status](https://travis-ci.com/MintoD/PMSetup.svg?branch=main)](https://travis-ci.com/TobyDev265/PMSetup)
 ![GitHub all releases](https://img.shields.io/github/downloads/TobyDev265/PMSetup/total)
 ![GitHub license](https://img.shields.io/github/license/TobyDev265/PMSetup)
 # PMSetup v1.1
