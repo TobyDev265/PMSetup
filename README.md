@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/MintoD/PMSetup.svg?branch=main)](https://travis-ci.com/TobyDev265/PMSetup)
-![GitHub all releases](https://img.shields.io/github/downloads/TobyDev265/PMSetup/total)
-![GitHub license](https://img.shields.io/github/license/TobyDev265/PMSetup)
+[![Build Status](https://travis-ci.com/MintoD/PMSetup.svg?branch=main)](https://travis-ci.com/TobyDeMintoDv265/PMSetup)
+![GitHub all releases](https://img.shields.io/github/downloads/MintoD/PMSetup/total)
+![GitHub license](https://img.shields.io/github/license/MintoD/PMSetup)
 # PMSetup v1.1
 **Install PocketMine using shell script with Sheep is default plugin manager..**
 # Usage
